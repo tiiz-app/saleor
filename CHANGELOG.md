@@ -10,6 +10,7 @@ All notable, unreleased changes to this project will be documented in this file.
 
 - Add our implementation of UUID scalar - #5646 by @koradon
 - Prevent creating checkout/draft order with unpublished product - #5676 by @d-wysocki
+- Add missing OrderEvents during checkout flow - #5684 by @koradon
 
 ## 2.10.0
 
