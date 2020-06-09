@@ -17,6 +17,7 @@
 !.testcafe
 !.travis*
 !.tx
+!.buildpacks
 *.css
 *.log
 *.pot
